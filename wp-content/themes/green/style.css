@@ -1,0 +1,12 @@
+/*
+Theme Name:     green
+Description:    green theme
+Author:         hajo
+Template:       twentytwentytwo
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+.has-background-color a{
+    color: #11ff00;
+}
